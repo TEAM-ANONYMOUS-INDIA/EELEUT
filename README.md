@@ -1,5 +1,3 @@
-Here's a professional README.md for your GitHub repository. It includes a banner, stylish formatting, and other elements that will help your project stand out:
-
 # 💀 **TEAM ANONYMOUS INDIA** - Encode and Decode Tool 💀
 
 <p align="center">
