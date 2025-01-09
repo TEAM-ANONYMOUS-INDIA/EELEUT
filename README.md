@@ -37,23 +37,19 @@ Follow these steps to set up and run the script on your local machine:
 Clone the repository using `git`:
 
 ```bash
-git clone https://github.com/TEAM-ANONYMOUS-INDIA/EELEUT.git
-cd EELEUT
+• git clone https://github.com/TEAM-ANONYMOUS-INDIA/EELEUT.git
+• cd EELEUT
 
 Step 2: Install Dependencies
 
 Make sure Python 3.x is installed on your machine. If it's not, install it from python.org.
 
-Then, install the required dependencies using the following command:
-
-pip install -r requirements.txt
-
 Alternatively, you can install the colorama package manually:
 
-pip install colorama
+• pip install colorama
 
 Step 3: Run the Tool
 
 After the dependencies are installed, you can run the tool by executing the Python script:
 
-python main.py
+• python main.py
