@@ -100,88 +100,6 @@ Once the script is running, you will be prompted with a menu of available option
 11. Binary Encode
 
 
-12. Binary Decode
-
-
-13. MD5 Hash
-
-
-14. SHA1 Hash
-
-
-15. SHA256 Hash
-
-
-16. Base32 Encode
-
-
-17. Base32 Decode
-
-
-18. Base16 Encode
-
-
-19. Base16 Decode
-
-
-
-
----
-
-Example Usage
-
-Here’s an example of how to encode and decode a string using Base64:
-
-Base64 Encode Example:
-
-Choose an option:
-1: Base64 Encode
-2: Base64 Decode
-...
-
-Enter your choice: 1
-Enter the text to process: Hello, World!
-Result: SGVsbG8sIFdvcmxkIQ==
-
-Base64 Decode Example:
-
-Choose an option:
-1: Base64 Encode
-2: Base64 Decode
-...
-
-Enter your choice: 2
-Enter the Base64 encoded string: SGVsbG8sIFdvcmxkIQ==
-Result: Hello, World!
-
-
----
-
-Disclaimer
-
-This tool is intended for ethical use only. TEAM ANONYMOUS INDIA does not support or condone any illegal activities, including unauthorized access to networks or systems.
-
-By using this tool, you agree to use it responsibly and legally. TEAM ANONYMOUS INDIA is not liable for any misuse of this tool.
-
-
----
-
-Contributing
-
-We welcome contributions from everyone! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-
-
-2. Create a new branch:
-
-git checkout -b feature-branch
-
-
-3. Make your changes.
-
-
-4. Commit your changes:
 
 git commit -am 'Add new feature'
 
@@ -246,20 +164,3 @@ pip install -r requirements.txt
 
 # Run the script
 python main.py
-
-
----
-
-> Note: If you're looking for fast and efficient encoding and decoding, this is the tool for you. Happy encoding and decoding! 😎💻
-
-
-
-### Key Elements in this **README**:
-- **Banner**: Eye-catching header image of the script's execution.
-- **Stylish Fonts**: For headings and the name of the project.
-- **Command Sections**: Bolded and easy to copy commands for installation and running the tool.
-- **Usage Example**: Detailed usage instructions with clear examples.
-- **Contact Information**: Direct links to Instagram, YouTube, and email for easier access.
-
-This **README** is designed to be professional, clear, and visually appealing to make it easy for users to understand and use the tool. You can customize and adjust any text or links based on your exact needs.
-
